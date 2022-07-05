@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+.cent{
+    position:absolute;
+ right: 150px;
+}
+.img-fluid {
+   text-align: center;
+}
+.imag{
+    height: 538px;
+    width: 700px;
+}
+.choix{ 
+    background-color:#ffb12b5b;
+    min-height: 100vh;
+}
+.nav-items{
+    position: relative;
+    top: 50px;
+}
+.h3{
+    padding-top: 50px; 
+    text-align: center;
+    color:#2b2111;
+    font-family: 'Allura',cursive;
+    font-size:larger;
+}
+.font{
+    font-family: 'Allura',cursive;
+ font-size: 35px;
+    
+}
+.choix2{
+    background-color:#FBF2DE;
+  
+}
+.cd{
+   
+    display: flex;
+    justify-content: center;
+}
+.color{
+    color:#FFA200;
+    font-size :50px;
+ 
+}
+.image{
+    height:300px;
+    width:300px;
+ border-radius: 10%;
+}
+.cards{
+    height:370px;
+    width:310px;  
+    top:775px 
+}
+.right{
+position: absolute;
+right:725px;
+}
+.left{
+position: absolute;
+left:760px;
+}
+.center{
+    text-align: center;
+    align-content: center;
+   
+}
+.card{
+    width: 900px;
+}
+.card-title{
+    color:#684911;
+}
+.card-titles{
+    font-family: 'Arial',cursive;
+    color:#C18722;
+    font-weight: bold;
+}
+.card-imge{ 
+    height:300px;
+    width:200px;  
+}
+.imge{
+    height:210px;
+    width:300px;  
+    border-radius: 10% 10% 0% 10%;  
+}
+.coff{
+    position: relative;
+    margin-top:200px;
+    padding: 15px;
+}
+.img-cof{
+    position: absolute;
+    top:-70px;
+    right:-320px
+}
+.imgee{
+    height:190px;
+    width:300px;  
+    border-radius: 0% 10% 10% 10%;  
+}
+.cofs{
+    position: relative ;
+    margin-top:100px  ;
+    right:-220px;
+} 
+.imge-cof2{
+    position:absolute;
+   top:-80px;
+    left:-240px;
+}
+.card-bod{
+    padding-left: 50px;
+}
+.carde{
+    height: 170px;
+    padding: 20px;
+}
+.text-muted{
+  color: black; 
+}

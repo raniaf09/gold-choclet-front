@@ -1,0 +1,23 @@
+.cent{
+    position:absolute;
+ right: 150px;
+}
+.img-fluid {
+   text-align: center;
+}
+.imag{
+    height: 538px;
+    width: 700px;
+}
+.choix{ 
+    background-color:#ffb12b5b;
+    min-height: 100vh;
+}
+.nav-items{
+    position: relative;
+    top: 50px;
+}
+.choco{
+min-width: 210vh;
+height:60vh ;
+}
